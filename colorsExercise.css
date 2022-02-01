@@ -1,0 +1,38 @@
+h1 {
+
+    Color: Black; background-color: red;
+}
+
+h2 {
+
+    color: #5699ff;  background-color: orange;
+}
+
+h3 {
+
+    color: #55C; background-color: yellow;
+}
+
+h4 {
+
+    color: #ffff; background-color: green;
+}
+
+h5 {
+
+    color:rgb(12, 255, 75); background-color: blue;
+}
+h6 {
+
+    color: rgba(186, 240, 8, 0.7); background-color: indigo;
+}
+
+p{
+    color: #12877299; background-color: violet;
+ol {
+}
+li a{
+
+color: hotpink;
+}
+}
